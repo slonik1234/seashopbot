@@ -5,8 +5,8 @@ from aiogram.filters import CommandStart
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.context import FSMContext
 
-TOKEN = "YOUR_BOT_TOKEN"
-ADMIN_ID = 123456789  # Твій Telegram ID
+TOKEN = "8889723550:AAEv1eDN85BN3jUbNc-6lD43ur48JjcB66k"
+ADMIN_ID = 1413108769 # Твій Telegram ID
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
